@@ -1,4 +1,4 @@
-//4- Faça um programa que leia um número inteiro ? 0 e
+//4- FaÃ§a um programa que leia um nÃºmero inteiro ? 0 e
 //calcule o seu fatorial.
 
 #include <stdio.h>
@@ -6,20 +6,20 @@
 int main() {
     int num, i, fat=1;
 
-    printf("Digite um numero inteiro não negativo: ");
+    printf("Digite um numero inteiro nÃ£o negativo: ");
     scanf("%d", &num);
 
     if (num < 0) {
-        printf("Número inválido! O número deve ser inteiro não negativo.\n");
+        printf("NÃºmero invÃ¡lido! O nÃºmero deve ser inteiro nÃ£o negativo.\n");
         return 1; // sai do programa com erro
     }
 
     for (i = 1; i <= num; i++) {
-        fat *= i; // multiplica o fatorial pelo próximo número
+        fat *= i; // multiplica o fatorial pelo prÃ³ximo nÃºmero
     }
 
     printf("%d! = %d\n", num, fat);
 
-    return 0; // sai do programa com sucesso
+    return 0;
 }
 
