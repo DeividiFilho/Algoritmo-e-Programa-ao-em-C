@@ -1,7 +1,7 @@
 # Algoritmo-e-Programacao-em-C
 
 •EMENTA: A disciplina consolida conceitos da programação de computadores, 
-introduzindo tópicosmais avançados como  a  manipulação  de  arquivos,  recursividade,  
+introduzindo tópicos mais avançados como  a  manipulação  de  arquivos,  recursividade,  
 referência  indiretade  variáveis,  métodos  de  busca  e ordenação.
 
 •OBJETIVOS: Aprimorar as habilidadesdeprogramaçãode computadores. 
